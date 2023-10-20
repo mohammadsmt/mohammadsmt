@@ -1,10 +1,5 @@
-- 👋 Hi, I’m mohammad taghinezhad
+- 👋 Hi, I’m Mohammad Taghinezhad
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javaScript and react-js
+- 🌱 I’m currently learning VueJs and ReactJs
 - 💞️ I’m looking to collaborate on a company
 - 📫 How to reach me (linkedin: https://www.linkedin.com/in/smtofficial/) (telegram: https://t.me/smt_official) (dribbble: https://dribbble.com/Mohammad_Taghinezhad)
-
-<!---
-mohammadsmt/mohammadsmt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
